@@ -1,4 +1,4 @@
-package com.hanabi;
+package com.hanabi.data;
 
 import java.util.Set;
 
